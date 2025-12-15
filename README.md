@@ -1,4 +1,4 @@
-harry-at-cognossa.github.io
+harry-at-cognosa.github.io
 =======================
 
 Harry A. Layman,PhD github user page
